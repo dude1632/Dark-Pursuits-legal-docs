@@ -1,0 +1,21 @@
+﻿[Dark Pursuit] Privacy Policy
+Last Updated: [January 1, 2026]
+1. Introduction
+Welcome to Dark Pursuit. We value your privacy and are committed to protecting your personal data. This Privacy Policy explains how our game handles information when you play on Meta Horizon/Quest devices.
+2. Data We Collect
+We strive to collect the minimum amount of data necessary to provide a functional and immersive horror experience.
+* Voice Data: Our game uses Meta’s voice services to enable in-game communication and/or voice-reactive gameplay mechanics.
+* Platform Data: We may receive basic information from Meta (such as your Oculus/Meta Username or Avatar) to identify you in multiplayer sessions.
+* No Persistent Storage: We do not record, store, or log your voice conversations on our own private servers. Audio is processed in real-time to provide game functionality.
+3. How We Use Data
+The data we access is used strictly for:
+* Enabling real-time voice communication between players.
+* Triggering in-game horror events based on voice input (if applicable).
+* Displaying your Meta Horizon profile (Username/Avatar) to other players in the game.
+4. Third-Party Services
+Our game is built for the Meta Horizon platform. As such, Meta may collect certain data according to their own policies (e.g., hardware telemetry, system-level voice commands). We encourage you to review the Meta Platforms Technologies Privacy Policy.
+5. Data Retention and Deletion
+Since we do not store your personal data or voice recordings on our own servers, there is no data for us to delete. Any data cached locally on your device is removed when the app is uninstalled.
+If you have questions about data Meta stores, you can manage your information through your Meta Account Settings.
+6. Children’s Privacy
+Our game is intended for users aged [13+/17+] and is not directed at children under the age of 13. We do not knowingly collect personal information from children.
